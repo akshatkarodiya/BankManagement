@@ -1,6 +1,6 @@
 # BankManagement
 
-Design and Development of online banking management system !  College Projectt
+Design and Development of online banking management system !  IIITB Software System Mini Project 
 
 ## Objective 
 <br />
